@@ -431,7 +431,7 @@ header h2 {
 
 .wd1img3 {
     position: absolute;
-    top: 100px;
+    top: 5.20833vw;
     right: 3vw;
 }
 
@@ -478,7 +478,7 @@ header h2 {
 
 .wd2img3 {
     position: absolute;
-    top: 100px;
+    top: 5.20833vw;
     right: 3vw;
 }
 
@@ -525,7 +525,7 @@ header h2 {
 
 .wd3img3 {
     position: absolute;
-    top: 100px;
+    top: 5.20833vw;
     right: 3vw;
 }
 
@@ -602,7 +602,7 @@ header h2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3개의 열 */
     grid-template-rows: repeat(3, auto); /* 3개의 행, 자동으로 높이 조절 */
-    gap: 31px; /* 열과 행 사이의 간격 */
+    gap: 1.61458vw; /* 열과 행 사이의 간격 */
 }
 .banner-card {
     display: inline-block;
